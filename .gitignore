@@ -6,3 +6,7 @@ node_modules/
 uploads/
 .vscode/
 .idea/
+
+# Claude Code
+CLAUDE.md
+.claude/
